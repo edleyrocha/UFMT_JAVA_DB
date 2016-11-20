@@ -303,3 +303,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/source_rafael/source_rafael/escolarMysql/dist/
+/source_rafael/source_rafael/escolarPostgresql/dist/
+/source_rafael/source_rafael/escolar/dist/
+/source_rafael/source_rafael - Copy/escolar/dist/
+/source_rafael/source_rafael - Copy/escolar/nbproject/private/
+/source_rafael/source_rafael - Copy/escolarMysql/dist/
+/source_rafael/source_rafael - Copy/escolarMysql/nbproject/private/
+/source_rafael/source_rafael - Copy/escolarPostgresql/dist/
+/source_rafael/source_rafael - Copy/escolarPostgresql/nbproject/private/
+/source_rafael/escolar/nbproject/private/
